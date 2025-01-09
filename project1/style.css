@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.size{
+    height: 100px;
+    width: 100px;
+    /* background-color: antiquewhite; */
+    border: 2px solid black;
+    margin: 10px;
+    
+    display: inline-block;
+
+    
+    
+}
+#box1{
+    background-color:antiquewhite;
+}
+#box2{
+    background-color:aqua;
+}
+#box3{
+    background-color:aquamarine
+}
+#box4{
+    background-color:beige
+}
+#main{
+    border: 2px solid black;
+    /* height: 400px;
+    width: 400px; */
+    display: flex;
+    justify-content: center;
+    
+    
+    
+    
+}
